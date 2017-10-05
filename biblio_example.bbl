@@ -1,0 +1,15 @@
+\begin{thebibliography}{1}
+
+\bibitem{Lowe:2004:DIF:993451.996342}
+David~G. Lowe.
+\newblock Distinctive image features from scale-invariant keypoints.
+\newblock {\em Int. J. Comput. Vision}, 60(2):91--110, November 2004.
+
+\bibitem{muja_flann_2009}
+Marius Muja and David~G. Lowe.
+\newblock Fast approximate nearest neighbors with automatic algorithm
+  configuration.
+\newblock In {\em International Conference on Computer Vision Theory and
+  Application VISSAPP'09)}, pages 331--340. INSTICC Press, 2009.
+
+\end{thebibliography}
